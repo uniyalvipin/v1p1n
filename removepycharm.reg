@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\openpycharmhere]
+[-HKEY_CLASSES_ROOT\Directory\shell\openpycharmhere\command]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\openpycharmhere]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\openpycharmhere\command]

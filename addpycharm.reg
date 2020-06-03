@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\openpycharmhere]
+@="&Open in PyCharm"
+"Icon"="C:\\Program Files\\JetBrains\\PyCharm Community Edition 2019.3.2\\bin\\pycharm64.exe"
+
+[HKEY_CLASSES_ROOT\Directory\shell\openpycharmhere\command]
+@="\"C:\\Program Files\\JetBrains\\PyCharm Community Edition 2019.3.2\\bin\\pycharm64.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\openpycharmhere]
+@="&Open in PyCharm"
+"Icon"="C:\\Program Files\\JetBrains\\PyCharm Community Edition 2019.3.2\\bin\\pycharm64.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\openpycharmhere\command]
+@="\"C:\\Program Files\\JetBrains\\PyCharm Community Edition 2019.3.2\\bin\\pycharm64.exe\" \"%V\""
